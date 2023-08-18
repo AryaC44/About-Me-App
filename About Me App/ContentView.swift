@@ -19,7 +19,7 @@ struct ContentView: View {
         
         
         VStack {
-            
+            Text("H")
             Text("About Me")
                 .font(.largeTitle)
                 .fontWeight(.heavy)
